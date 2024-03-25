@@ -1,0 +1,147 @@
+{
+    "body": [
+        {
+            "eventDate": "2023-04-23T09:00:00",
+            "startDate": "2023-04-28T09:00:00",
+            "endDate": "2023-04-29T09:00:00",
+            "organizer": "TesseracT",
+            "address": "GYLT, 22, Hennur Bagalur Main Rd, Visthar",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event1"
+        },
+        {
+            "eventDate": "2023-03-25T00:00:00",
+            "startDate": "2023-04-24T00:00:00",
+            "endDate": "2023-04-14T00:00:00",
+            "organizer": "Comedy Adda, Koramangala",
+            "address": "483, Tamasha Cafe, 5th Block, KHB Colony, 5th Block, Koramangala",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event2"
+        },
+        {
+            "eventDate": "2023-04-19T00:00:00",
+            "startDate": "2023-04-19T21:00:00",
+            "endDate": "2023-04-19T23:00:00",
+            "organizer": "The last Tool Tribute tour by Time Throttle - St Marks, Ashok Nagar, Bangalore",
+            "address": "Hard Rock Cafe, 40, St Mark's Rd, Shanthala Nagar, Ashok Nagar",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event3"
+        },
+        {
+            "eventDate": "2023-04-13T00:00:00",
+            "startDate": "2023-04-13T00:00:00",
+            "endDate": "2023-04-14T00:00:00",
+            "organizer": "Dance for love",
+            "address": "Cubbon Park, Kasturba Rd, behind High Court of Karnatak, Ambedkar Veedhi, Sampangi Rama Nagara",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event4"
+        },
+        {
+            "eventDate": "2023-03-25T00:00:00",
+            "startDate": "2023-03-23T00:00:00",
+            "endDate": "2023-04-06T00:00:00",
+            "organizer": "JUST JOKES at Tamasha Cafe, Koramangala",
+            "address": "483, Tamasha Cafe, 5th Block, KHB Colony, 5th Block, Koramangala",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event5"
+        },
+        {
+            "eventDate": "2023-03-31T00:00:00",
+            "startDate": "2023-03-31T00:00:00",
+            "endDate": "2023-04-01T00:00:00",
+            "organizer": "Hidden Empire",
+            "address": " Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event6"
+        },
+        {
+            "eventDate": "2023-04-20T00:00:00",
+            "startDate": "2023-04-20T09:00:00",
+            "endDate": "2023-04-20T23:00:00",
+            "organizer": "The last Tool Tribute tour by Time Throttle - Whitefield, Bangalore",
+            "address": "Unit no.G-25 & 26, Ground Floor, 40, ITPL Main Rd, Pattandur Agrahara, Whitefield",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event7"
+        },
+        {
+            "eventDate": "2023-03-30T00:00:00",
+            "startDate": "2023-03-30T00:00:00",
+            "endDate": "2023-04-20T00:00:00",
+            "organizer": "The Great Bangalore Comedy Show",
+            "address": " 1022, 80 Feet Rd, 4th Block, S.T. Bed, S T Bed Layout, Koramangala",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event8"
+        },
+        {
+            "eventDate": "2023-03-28T00:00:00",
+            "startDate": "2023-03-28T00:00:00",
+            "endDate": "2023-04-25T00:00:00",
+            "organizer": "Music jam",
+            "address": "2906, Lahe Lahe, 2907, 80 Feet Rd, HAL 2nd Stage, Kodihalli",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event9"
+        },
+        {
+            "eventDate": "2023-04-14T00:00:00",
+            "startDate": "2023-04-14T15:30:00",
+            "endDate": "2023-04-14T17:10:00",
+            "organizer": "Saikiran Checks In",
+            "address": " Jagriti Theatre, JAGRITI THEATRE, Varthur Main Rd, near Adarsh Palm Meadows Road, Ramagondanahalli, Whitefield",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event10"
+        },
+        {
+            "eventDate": "2023-03-25T00:00:00",
+            "startDate": "2023-03-23T00:00:00",
+            "endDate": "2023-04-07T00:00:00",
+            "organizer": "Gandi Soch - Stan Up Comedy Show",
+            "address": "L, L91 Cafe, 81, 15th Cross Rd, Sector 6, HSR Layout",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event11"
+        },
+        {
+            "eventDate": "2023-04-13T00:00:00",
+            "startDate": "2023-04-13T21:00:00",
+            "endDate": "",
+            "organizer": "Rafiki (IN)",
+            "address": " 3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event12"
+        },
+        {
+            "eventDate": "2023-03-25T00:00:00",
+            "startDate": "2023-03-24T00:00:00",
+            "endDate": "2023-04-15T00:00:00",
+            "organizer": "Holi Special Comedy (Koramangala)",
+            "address": "Glens BakeHouse, 616, 80 Feet Rd, 6th Block, Koramangala",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "redirectLink": "",
+            "imagePath": "images/event13"
+        }
+    ]
+}
